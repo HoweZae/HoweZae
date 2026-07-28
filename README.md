@@ -1,5 +1,5 @@
 <h2 align="center" style="margin-bottom: 0px;" id="title">
-  Hi 👋 I am Jose
+  Jose Tomanan
 </h2>
 <h3 align="center" style="margin-bottom: 4px;">
   AI-proficient full-stack developer, with focus on writing readable, maintainable, scalable code. <br>
