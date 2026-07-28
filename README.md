@@ -2,7 +2,7 @@
   Hi 👋 I am Jose
 </h2>
 <h3 align="center" style="margin-bottom: 4px;">
-  TS-proficient full-stack developer, with focus on writing readable, maintainable, scalable code. <br>
+  AI-proficient full-stack developer, with focus on writing readable, maintainable, scalable code. <br>
 </h3>
 
 <div style="flex-basis: 25%;">  
