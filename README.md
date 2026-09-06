@@ -2,7 +2,7 @@
   Jose Tomanan
 </h2>
 <h3 align="center" style="margin-bottom: 4px;">
-  AI-proficient full-stack developer, with focus on writing readable, maintainable, scalable code. <br>
+  AI-proficient full-stack developer with focus on writing scalable code. <br>
 </h3>
 
 <div style="flex-basis: 25%;">  
